@@ -1,3 +1,3 @@
 # coursera-test
 Coursera test repository
-theme: jekyll-theme-Architect
+theme: jekyll-theme-tactile
